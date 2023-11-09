@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 g = 9.81  # Acceleration due to gravity (m/s^2)
 rho = 1.225  # Air density (kg/m^3)
 A = 0.0108528815  # Cross-sectional area of the nosecone (m^2)    
-m = 4.536  # Mass of the nosecone (kg)wddwad
+m = 4.536  # Mass of the nosecone (kg)wddwadfdgdggfdg
 
 # Range of Cd values 
 Cd_values = np.linspace(0.2, 0.4, 100)
